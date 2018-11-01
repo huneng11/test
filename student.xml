@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<operation_id>
+  <process_code>cc_wlw_controlsr</process_code>
+  <app_id>109000000220</app_id>
+  <access_token>uRIIdk5TcV2CsKNgZnp5</access_token>
+  <sign/>
+  <verify_code/>
+  <req_type>2</req_type>
+  <terminal_id/>
+  <accept_seq>U201809251037008413</accept_seq>
+  <req_time>20180925103700</req_time>
+  <req_seq>CBS20180925103700</req_seq>
+  <content>
+    <groupid>51235524367</groupid>
+    <telnum>121212121</telnum>
+    <oprtype>1</oprtype>
+    <reason>6</reason>
+  </content>
+</operation_id>
