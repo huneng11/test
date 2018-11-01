@@ -1,3 +1,0 @@
-https://10.44.218.8:8001/svn/1407/13-FE/99-DevelopSoftware/
-
-计费系统svn地址：https://10.44.218.8:8001/svn/1407/02-IIOTSP/02-branches/iotgp-cbs
